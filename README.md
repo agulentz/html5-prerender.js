@@ -19,7 +19,7 @@ If you wanna start using this nice feature mark ALL your links which you would l
 
 ` <a href="http://www.google.de" alt="link2" pre> Link5 </a>`
 
-Your Website is now using Prerender to preload Pages which are linked within you website. If you have any questions, contact me at any time.
+Your Website is now using Prerender to preload Pages which are linked within you website. If you have any questions, contact me at any time. 
 
 
 
