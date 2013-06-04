@@ -13,11 +13,11 @@ To Enable this feature for you website you need to
 * inject it to your website
 
 
-Insert the script `<script src="js/prerender.js" type="text/javascript">` 
+Insert the script `<script src="js/prerender.js" type="text/javascript"></script>` 
 
-If you wanna start using this nice feature mark ALL your links which you would like to prefetch with 'pre` as attribute:
+If you wanna start using this nice feature mark ALL your links which you would like to prefetch with `pre` as attribute:
 
-` <a href="http://www.google.de" alt="link2" pre> Link5 </a>`
+` <a href="http://www.google.de" alt="link2" pre> Link </a>`
 
 Your Website is now using Prerender to preload Pages which are linked within you website. If you have any questions, contact me at any time. 
 
